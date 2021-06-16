@@ -1,0 +1,40 @@
+html{
+    scroll-behavior: smooth;
+    scroll-snap-type: y mandatory;
+}
+
+body{
+    background-color: rgb(255, 0, 0);
+}
+
+.xxv{
+    height: 100vh;
+}
+
+.l{
+    padding-top: 20%;
+}
+
+
+.card{
+    align-items: center;
+}
+
+.hhe{
+    display: inline;
+}
+
+.iii{
+    text-align: center;
+}
+
+.ooo, .ppp{
+    height: 100vh;
+}
+
+.ee{
+    scroll-snap-align: start;
+}
+
+
+
