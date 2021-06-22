@@ -1,2 +1,2 @@
 # website-stuff
-mackarel minecrafT????
+placeholder website for mackarel
